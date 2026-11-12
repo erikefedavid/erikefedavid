@@ -1,45 +1,48 @@
-<h1 align="center">👋 Hi, I'm David Erikefe-Dickson (Davebuiltit)</h1>
-<h3 align="center">🚀 Frontend Developer | React & Tailwind Enthusiast</h3>
+<div align="center">
+  <h1>Hi there, I'm David Erikefe 👋</h1>
+  <p><strong>Frontend & Full-Stack Engineer • Web Designer • Building from Nigeria to the World</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/davebuiltit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/Davebuiltit" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:dafenone2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-### 💡 About Me
-- 🌍 Crafting code from **Nigeria** to the world  
-- 🎨 Passionate about **beautiful, functional UIs**  
-- 💻 Focused on **React + TailwindCSS** and always exploring new tools  
-- 📈 Turning **ideas into reality** with clean, scalable code  
+### 🚀 What I Do
+I engineer high-performance, accessible, and responsive digital products. My focus spans modern frontend architectures (**Next.js**, **React**, **TypeScript**, **Tailwind CSS**) to AI-augmented web platforms integrating the **Gemini API** and **Groq Cloud AI**.
 
----
-
-### 🔥 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,git,github,vite" />
-</p>
+- 🔭 **Featured Work:** Building curated developer software and enterprise UI platforms.
+- 📄 **Research:** Co-author of AI document processing research accepted at **ICMLDE**.
+- 💡 **Core Philosophy:** Clean architecture, snappy micro-interactions, and real-world utility over hype.
 
 ---
 
 ### 📂 Featured Projects
-- 🖥️ [**Portfolio Website**](https://erikefedavid.github.io/Portfolio)  
-- 📊 [**Admin Dashboard**](https://erikefedavid.github.io/Admin-Dashboard)  
-- ⛅ [**Weather App**](https://erikefedavid.github.io/Weather-App)  
-- 🛍️ [**Swissmarkk (HTML + CSS website)**](https://erikefedavid.github.io/SWISSMARK/)  
+
+| Project | Tech Stack | Description | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **ToolDeck** | `Next.js` `TypeScript` `Gemini API` `Tailwind` | Curated discovery directory of 100+ free AI tools and developer utilities with intelligent recommendations. | [Live Site](https://aitooldesk.vercel.app/) |
+| **DocDigitize** | `Next.js` `React` `Groq AI` `MongoDB` | Full-stack AI document digitization platform extracting & summarizing scanned texts. ICMLDE research paper. | [Live Site](https://docdigitize.vercel.app/) |
+| **Admin Dashboard** | `React` `Tailwind CSS` `Vite` | Responsive enterprise administration portal for telemetry, charts, and workflow controls. | [Live Site](https://erikefedavid.github.io/Admin-Dashboard/) |
+| **Swissmarkk** | `HTML5` `CSS3` `JavaScript` | Luxury commercial brand showcase with product exploration and responsive storytelling. | [Live Site](https://erikefedavid.github.io/SWISSMARK/) |
 
 ---
 
-### 🎯 Motto
-> *"Bringing designs to life with code that’s both functional and elegant."*
+### 🛠️ Tech Stack & Tooling
 
----
-
-### 🌐 Let’s Connect
 <p align="left">
-  <a href="https://linkedin.com/in/david-erikefe-3a41072b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/daveBuild_s" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/ERIKEFE-DAVID" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,mongodb,python,git,github,vite,figma" alt="Tech Stack" />
 </p>
+
+* **Languages:** TypeScript, JavaScript (ES6+), Python, HTML5, CSS3
+* **Frameworks & UI:** Next.js, React.js, Tailwind CSS, Framer Motion, Vite
+* **Backend & Storage:** Node.js, Express, MongoDB, Cloudinary, REST APIs
+* **AI & Cloud:** Google Gemini API, Groq Cloud AI, Vercel
+
+---
+
+<div align="center">
+  <sub>Designed & engineered by <b>David Erikefe</b> (<code>@davebuiltit</code>)</sub>
+</div>
