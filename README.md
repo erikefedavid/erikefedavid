@@ -30,6 +30,7 @@ I engineer production-grade full-stack systems, autonomous AI agent architecture
 | **GitSentry** | `Node.js CLI` `AST Heuristics` `CI/CD` | Autonomous static frontend performance sentinel. Audits codebases in &lt;30ms, enforces 60fps composite animation physics, and patches layout thrashing with `--fix`. | [GitHub](https://github.com/erikefedavid/GitSentry) • `npx gitsentry` |
 | **DevRadar** | `GitHub Actions` `Google Gemini AI` `Telegram Bot API` | Autonomous job scanner evaluating developer feeds every 6 hours, detecting tech-stack bottlenecks, and dispatching instant Telegram pitches. | [GitHub](https://github.com/erikefedavid/devradar) |
 | **ToolDeck** | `Next.js` `TypeScript` `Gemini AI` `Tailwind` | Curated discovery directory indexing 100+ vetted AI tools and developer utilities with intelligent recommendations. | [Live Site](https://aitooldesk.vercel.app/) • [GitHub](https://github.com/erikefedavid/Tooldesk) |
+| **PulseOps** | `Tailwind` `B2B Analytics` `Logistics Telemetry` | High-density enterprise logistics operations dashboard with real-time dispatch management and telemetry. | [Live App](https://erikefedavid.github.io/PulseOps/) • [GitHub](https://github.com/erikefedavid/PulseOps) |
 
 ---
 
